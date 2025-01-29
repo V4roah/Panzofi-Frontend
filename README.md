@@ -28,7 +28,7 @@ Esto abrirá la aplicación en http://localhost:3000/.
 El frontend está configurado para comunicarse con el backend en http://localhost:8000/. Asegúrate de que el backend esté corriendo antes de iniciar el frontend.
 
 🎨 Estilos
-El frontend utiliza Radix UI para la interfaz de usuario. Si necesitas modificar los estilos, revisa la documentación oficial de Radix UI.
+El frontend utiliza Radix UI para la interfaz de usuario.
 
 🛠 Herramientas utilizadas
 React: Librería principal para la UI.
