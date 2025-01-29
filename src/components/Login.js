@@ -60,7 +60,7 @@ const Login = ({ setToken }) => {
             Iniciar Sesión
           </Heading>
           <form
-            onSubmit={handleSubmit} // ⬅️ Asegurar que se maneje el login correctamente
+            onSubmit={handleSubmit}
             style={{
               width: "100%",
               display: "flex",

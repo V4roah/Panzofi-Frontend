@@ -143,7 +143,6 @@ const AdminPage = () => {
             </Button>
           </Flex>
 
-          {/* 📌 Nueva distribución: Tabla a la izquierda, Gráficas a la derecha */}
           <Flex
             gap="20px"
             style={{
@@ -195,7 +194,7 @@ const AdminPage = () => {
               </Table.Root>
             </Box>
 
-            {/* 📊 Contenedor de gráficas */}
+            {/*  Contenedor de gráficos */}
             <Box
               style={{
                 flex: "1",
@@ -204,7 +203,7 @@ const AdminPage = () => {
                 gap: "20px",
               }}
             >
-              {/* 📊 Gráfica de Barras */}
+              {/*  Gráfica de Barras */}
               <Box
                 style={{
                   padding: "10px",
